@@ -6,7 +6,8 @@ Restricts access to the server for SteamID members/employees listed in the white
 2. Download WhiteList
 
 3. Unzip the archive and upload it to the game server
-#Config
+
+# Config
 ```
 76561198985142348
 76561198985147558
